@@ -1,4 +1,4 @@
-import{P as d}from"./ProjectsList-96cc8a8e.js";import{f as p,_ as g,r as h,c as m,d as u,a as e,b as v,o as b}from"./index-b7c8b944.js";class t{constructor(r,i,o,n,l="#000000",a=!1,c=!1){this.id=r,this.name=i,this.htmlDescription=n,this.iconUrl=o,this.isHigh=a,this.isWide=c,this.accentColor=l}}const f=[new t("project-1","Alone in the Dark","img/projects/AitD_Keyart.jpg",`
+import{P as d}from"./ProjectsList-446ae344.js";import{f as p,_ as g,r as h,c as m,d as u,a as e,b as v,o as b}from"./index-2cd83fb1.js";class t{constructor(r,i,o,n,l="#000000",a=!1,c=!1){this.id=r,this.name=i,this.htmlDescription=n,this.iconUrl=o,this.isHigh=a,this.isWide=c,this.accentColor=l}}const f=[new t("project-1","Alone in the Dark","img/projects/AitD_Keyart.jpg",`
     <div class="paragraph">
      <strong>Alone in the Dark</strong>. In this love letter to the ground-breaking original, THQ Nordic and Pieces Interactive present you a re-imagination of the classic survival horror game, Alone in the Dark. Set in the gothic American south, you control one of our two protagonists: Play as Edward Carnby or Emily Hartwood to explore your environments, fight monsters, solve puzzles and uncover the true secret of Derceto Manor…
 
@@ -15,7 +15,7 @@ import{P as d}from"./ProjectsList-96cc8a8e.js";import{f as p,_ as g,r as h,c as 
         <li>Creating the layouts with whiteboxing/blockmeshing</li>
         <li>Scripting events and combat encounters</li>
         <li>Puzzle design and scripting</li>
-        <li>Working in close colaboration with artists, animators, programmers, etc.</li>
+        <li>Working in close collaboration with artists, animators, programmers, etc.</li>
         </ul>
     </div>
 
@@ -51,7 +51,7 @@ import{P as d}from"./ProjectsList-96cc8a8e.js";import{f as p,_ as g,r as h,c as 
         <li>Creating the layouts as well as set dressing</li>
         <li>Scripting events and combat encounters</li>
         <li>Quest design and scripting</li>
-        <li>Working in close colaboration with artists, animators, programmers, etc.</li>
+        <li>Working in close collaboration with artists, animators, programmers, etc.</li>
         </ul>
     </div>
 
@@ -83,7 +83,7 @@ import{P as d}from"./ProjectsList-96cc8a8e.js";import{f as p,_ as g,r as h,c as 
         <li>Creating the layouts as well as set dressing</li>
         <li>Scripting events and combat encounters</li>
         <li>Quest design and scripting</li>
-        <li>Working in close colaboration with artists, animators, programmers, etc.</li>
+        <li>Working in close collaboration with artists, animators, programmers, etc.</li>
         </ul>
     </div>
 
